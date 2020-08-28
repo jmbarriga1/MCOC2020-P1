@@ -14,7 +14,7 @@ m_t = 5.98*(10**24)  #Kg
 r = (6371 + 700)*1000 #metros
 radio_tierra = 6371*1000
 radio_orbita = (6371+80)*1000
-t = 12700             
+t = 12700 #segundos            
 omega = (2*3.14)/(24*3600)   #2*Pi/24 horas en segundos
 T = sp.linspace(0,t,1001)
 
@@ -67,7 +67,7 @@ tetha = np.linspace(0,2*3.14,100)
 X = r_atmosfera*np.cos(tetha)
 Y = r_atmosfera*np.sin(tetha)
 
-plt.plot(T,x)
+plt.plot(T,y)
 plt.hlines(y = radio_tierra, xmin = 0, xmax=14000,color="green")
 plt.hlines(y = radio_orbita, xmin = 0, xmax=14000, color="orange")
 plt.hlines(y = -radio_tierra, xmin = 0, xmax=14000, color="green")
