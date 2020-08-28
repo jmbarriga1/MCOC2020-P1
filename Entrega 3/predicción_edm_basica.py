@@ -90,7 +90,7 @@ pos_final = np.array([x_f,y_f,z_f,vx_f,vy_f,vz_f])- sol[-1]
 
 
 norma_error = (pos_final[0]**2 + pos_final[1]**2 + pos_final[2]**2)**(1/2.0)
-print("Distancia erronea: ",norma_error, "m")
+print(norma_error)
 
 H = (x[:, 0]**2 + x[:, 1]**2 + x[:, 2]**2)**(1/2) - R
 
