@@ -16,3 +16,7 @@
 * Tambien se puede apreciar  en el grafico de abajo la distancia que tiene el satelite, la atmosfera y la tierra, con respecto al tiempo. Cabe mencionar que el satelite en ningun momento entra a la atmosfera.
 
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%202/Distancia%20satelite%2C%20tierra%20y%20orbita%20respecto%20al%20tiempo.png?raw=true)
+
+# Entrega3 - I/O de vectores de estado y predicciones usando la EDM básica
+
+* La distancia a la cual se encuentra el satelite es de 1312339.378738718 metros.
