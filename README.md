@@ -26,4 +26,4 @@
 ![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%204/graphic_entrega4.png?raw=true)
 
 * En el gráfico se puede apreciar que la solución analítica es prácticamente igual a la solución odeint, esto denota la precisión que tienen ambos métodos de solución.
-También se puede apreciar que para la solución euler mientras mayor es el numero de subdivisiones con la cual se analiza, mas precisa es.  Esta precisión se ve en el gráfico, ya que se acerca cada vez mas a los resultados de la solución odeint y la solución analítica.
+* También se puede apreciar que para la solución euler mientras mayor es el numero de subdivisiones con la cual se analiza, mas precisa es.  Esta precisión se ve en el gráfico, ya que se acerca cada vez mas a los resultados de la solución odeint y la solución analítica.
