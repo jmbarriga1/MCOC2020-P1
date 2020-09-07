@@ -34,11 +34,11 @@
 
 * Grafico posición x,y,z:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%204/graphic_entrega4.png?raw=true)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/graphic_5.1.png?raw=true)
 
 * Grafico posición x,y,z con corrección J2 y J3:
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%204/graphic_entrega4.png?raw=true)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/graphic_5.2.png?raw=true)
 
 * 2)
 
