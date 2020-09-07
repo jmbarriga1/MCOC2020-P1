@@ -50,7 +50,7 @@
 
 * 3)
 
-* ![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/Diferencia%20entre%20odeint%20y%20eulerint%20con%20Nsubidvisiones%20%3D%20500.png?raw=true)
+* ![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/Diferencia%20con%20N%20%3D%20500.png?raw=true)
 
 * ¿Cuantas subdivisiones hay que usar para que la predicción con eulerint al final del tiempo esté en menos de un 1% de error? Las subdivisiones que se hicieron para que la predicción sea cercana a un 1% fue de 500 subdivisiones el cual demoro un tiempo de 1893.62 en ejecutar ya que el computador demoraba mucho en hacer una subdivisión mayor.
 
