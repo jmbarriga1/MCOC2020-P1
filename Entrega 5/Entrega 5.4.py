@@ -111,7 +111,7 @@ plt.plot(t/3600,diferencia_odeint/1000)
 plt.ylabel("Deriva, (Km)")
 plt.xlabel("Tiempo, t (horas)")
 plt.title("Diferencia entre odeint y eulerint con Nsubidvisiones = 500")
-plt.show()
-plt.savefig("Diferencia entre odeint y eulerint con Nsubidvisiones = 500")
 
+plt.savefig("Diferencia entre odeint y eulerint con Nsubidvisiones = 500")
+plt.show()
 

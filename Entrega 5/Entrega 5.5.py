@@ -107,6 +107,6 @@ plt.plot(t/3600,diferencia_odeint/1000)
 plt.ylabel("Deriva, (Km)")
 plt.xlabel("Tiempo, t (horas)")
 plt.title("Distancia entre posición real y predicha con correción J2, Deltamax = 1752,18 (Km)")
-plt.show()
-plt.savefig("Distancia entre posición real y predicha con correción J2.png")
 
+plt.savefig("Distancia entre posición real y predicha con correción J2.png")
+plt.show()
