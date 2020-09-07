@@ -60,4 +60,4 @@
 
 * ![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%204/graphic_entrega4.png?raw=true)
 
-* ¿Cuánta deriva incurre al agregar las correcciones J2 y J3? ¿Cuanto se demora su código en correr? Con la correción J2 deriva 1752,18 (Km) con un tiempo de 0.5927 segundos y luego con la corrección J2 y J3 deriva 1748,56 (Km) con un tiempo de 0.5905.
+* ¿Cuánta deriva incurre al agregar las correcciones J2 y J3? ¿Cuanto se demora su código en correr? Con la correción J2 deriva 1752,18 (Km) con un tiempo de 0.5927 segundos y luego con la corrección J2 y J3 deriva 1748,56 (Km) con un tiempo de 1.967.
