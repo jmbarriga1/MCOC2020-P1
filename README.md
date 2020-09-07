@@ -42,7 +42,7 @@
 
 * 2)
 
-![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/Distancia_entre_real_y_predicha.png?raw=true)
+![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/DistRealPre.png?raw=true)
 
 * ¿Cuánto deriva eulerint de odeint en este caso al final del tiempo? Alfinal del tiempo eulerint de odeint deriva 3719,25 (Km).
 
@@ -56,8 +56,8 @@
 
 * 4)
 
-* ![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/Distancia%20entre%20posici%C3%B3n%20real%20y%20predicha%20con%20correci%C3%B3n%20J2.png?raw=true)
+* ![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/DistJ2.png?raw=true)
 
-* ![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/Distancia%20entre%20posici%C3%B3n%20real%20y%20predicha%20con%20correci%C3%B3n%20J2%2CJ3.png?raw=true)
+* ![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/DistJ2%2CJ3.png?raw=true)
 
 * ¿Cuánta deriva incurre al agregar las correcciones J2 y J3? ¿Cuanto se demora su código en correr? Con la correción J2 deriva 1752,18 (Km) con un tiempo de 0.5927 segundos y luego con la corrección J2 y J3 deriva 1748,56 (Km) con un tiempo de 1.967.
