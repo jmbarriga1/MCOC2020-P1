@@ -11,10 +11,10 @@ import numpy as np
 from sys import argv
 
 #from sys import argv
-eofname=argv[1]
+#eofname=argv[1]
 
 
-#eofname="S1B_OPER_AUX_POEORB_OPOD_20200827T111142_V20200806T225942_20200808T005942.EOF"
+eofname="S1B_OPER_AUX_POEORB_OPOD_20200827T111142_V20200806T225942_20200808T005942.EOF"
 
 
 sat_t,sat_x,sat_y,sat_z,sat_vx,sat_vy,sat_vz=leer_eof(eofname)
