@@ -61,3 +61,7 @@
 * ![alt text](https://github.com/jmbarriga1/MCOC2020-P1/blob/master/Entrega%205/DistJ2%2CJ3.png?raw=true)
 
 * ¿Cuánta deriva incurre al agregar las correcciones J2 y J3? ¿Cuanto se demora su código en correr? Con la correción J2 deriva 1752,18 (Km) con un tiempo de 0.5927 segundos y luego con la corrección J2 y J3 deriva 1748,56 (Km) con un tiempo de 1.967.
+
+# Entrega Final 
+
+* Se creo un codigo en el cual se implementaron J4, J5 y J6 para predecir de mejor manera el satelite. Al hacerlo me pude dar cuenta que el resultado fue de mayor distanciamiento que al hacerlo con J2 y J3. Esto se puede deber a un error humano en la programación. Es por esta razón que se decidio hacer la prediccion como se solicitaba en la entrega 6, en la cual solo se considero J2 y J3. De esta manera dio un distanciamiento de 1742.428764063566 Km con respecto al satelite real en cambio con la implementación que se hizo con J4, J5 y J6 resultaba de 7076.762626342014 Km.
